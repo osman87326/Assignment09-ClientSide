@@ -15,7 +15,7 @@ const Navbar = async () => {
         <div className="navbar bg-arenaCard shadow-md border-b border-white/5 px-4">
             <div className="navbar-start">
                 <Link href="/" className="text-3xl font-sports font-bold tracking-tight uppercase">
-                    Arena<span className="text-arenaOrange italic">Pulse</span>
+                    Sport<span className="text-arenaOrange italic">Nest</span>
                 </Link>
             </div>
 
